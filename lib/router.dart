@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:lab2/screens/details.dart';
-import 'package:lab2/screens/summary.dart';
+import 'package:github/screens/details.dart';
+import 'package:github/screens/summary.dart';
 
 import 'constants.dart';
 import 'models/mockdata.dart';

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:lab2/models/assessment.dart';
+import 'package:github/models/assessment.dart';
 
-import 'package:lab2/models/groupmember.dart';
+import 'package:github/models/groupmember.dart';
 
 import '../constants.dart';
 
