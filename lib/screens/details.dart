@@ -49,34 +49,3 @@ class DetailsScreen extends StatelessWidget {
     );
   }
 }
-
-//class _DropdownButton extends StatefulWidget {
-  //final int index;
-  //final List<int> points;
-
-  //const _DropdownButton({required this.index, required this.points});
-
-  //@override
-  //__DropdownButtonState createState() => __DropdownButtonState();
-//}
-
-//class __DropdownButtonState extends State<_DropdownButton> {
- // @override
-  //Widget build(BuildContext context) {
-    //return DropdownButton<int>(
-     // value: widget.points[widget.index],
-     // items: scales
-          //.map(
-            //(scale) => DropdownMenuItem(
-            //  value: scale.value,
-             // child: Text(scale.title),
-          //  ),
-         // )
-          //.toList(),
-      //onChanged: (newValue) =>
-        //  setState(() => widget.points[widget.index] = newValue!),
-       
-        
-   // );
- // }
- //}
